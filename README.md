@@ -118,7 +118,7 @@ Now Let's configure some files that came after the installation of tailwindcss
    python manage.py runserver
 ```
 - **Watch this screenshot and check once with your project structure**
-**![Screenshot (870)](https://github.com/PARTHIB-DEB/Test-Dj-Tailwind/assets/103876861/1ca3a8c5-3086-4d97-a88f-6d429201f1e1)**
+![Screenshot (870)](https://github.com/PARTHIB-DEB/Test-Dj-Tailwind/assets/103876861/1ca3a8c5-3086-4d97-a88f-6d429201f1e1)
   
 ## 6. HTML file codes
 - _base.html_ :

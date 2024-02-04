@@ -2,9 +2,14 @@
 # Integrating Django with Tailwind (Without Using any Packadge) Guide
 
  🚀 This repository consists about How you can use TailwindCSS framework within Django Server.
- 🤔 Yeah !! I know there are some packadges on this topic. But they also do the same steps like how I have done. But they lack CSS-reloading (What I have faced 🙂)
+ 
+ 🤔 Yeah !! I know there are some packadges on this topic. But they also do the same steps like how I have done.
+  But they lack CSS-reloading (What I have faced 🙂)
+ 
  🐎 That's why , without using those packadges , Let's manually create the environment. Believe me 🌝, that will be a more persistent alternative.
+ 
  💡 Let's see How we can build this configuration properly .
+ 
 
  # Requirements :
  🔔 Django (Any Version , Recommended >=3.5)

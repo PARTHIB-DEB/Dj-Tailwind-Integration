@@ -1,4 +1,4 @@
-![Dj-Tailwind](dj-tail.jpeg)
+![Dj-Tailwind](dj-tailwind.jpeg)
 
 # Integrating Django with Tailwind (Without Using any Packadge) Guide
 

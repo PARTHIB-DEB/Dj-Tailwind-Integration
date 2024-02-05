@@ -9,7 +9,7 @@
  
  🐎 That's why , without using those packadges , Let's manually create the environment. Believe me 🌝, that will be a more persistent alternative.
 
- 🔥 Although There are two more ways - 1) Using PlayCDN or 2) Connecting Tailwind Server Via REST API (because here the frontend is part another project)
+ 🔥 Although There are two more ways - 1) Using PlayCDN or 2) Connecting Tailwind Server Via REST API (because here the frontend is part of another project)
  
  💡 Let's see How we can build this configuration properly .
  
@@ -17,7 +17,7 @@
  # Requirements :
  🔔 Django (Any Version , Recommended >=3.5)
  
- 🔔 Django-Compressor (For Converting the Tailwind CSS into Vanilla CSS . It also helps to load the CSS changes)
+ 🔔 Django-Compressor (For Converting the Tailwind CSS into Vanilla CSS )
  
  🔔 Django-Browser-Reload (To Reload the all static (CSS , JS) changes in screen)
  

@@ -119,6 +119,12 @@ Now Let's configure some files that came after the installation of tailwindcss
   ...
 }
 ```
+- **Add this lines in _input.css_**
+```bash
+   @tailwind base;
+   @tailwind components;
+   @tailwind utilities;
+```
 - **Now run two commands (every time when you do any changes in css using tailwind)**
 ```bash
    npx tailwindcss -i ./static/input.css -o ./static/output.css

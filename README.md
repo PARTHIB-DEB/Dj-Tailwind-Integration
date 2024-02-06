@@ -13,7 +13,7 @@
  
  💡 Let's see How we can build this configuration properly .
 
-## **❗❗If You have some database like Postgres , where you can view data in raw form or some time of DAAS , then only use this way. Because in this way , the django-compressor completely disrupts django-admin pannel's default CSS. So If you can see data inside database then you can go through this way.**
+## **❗❗If You have some database like Postgres , where you can view data in raw form or some type of DAAS , then only use this way. Because in this way , the django-compressor completely disrupts django-admin pannel's default CSS. So If you can see data inside database then you can go through this way.**
 
  # Requirements :
  🔔 Django (Any Version , Recommended >=3.5)
